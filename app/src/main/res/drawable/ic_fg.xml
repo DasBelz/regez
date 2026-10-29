@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Wolke mit Pfeil nach oben -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M72,48a14,14 0,0 0,-27 -4a11,11 0,0 0,-3 22h30a9,9 0,0 0,0 -18z" />
+    <path android:fillColor="#1A73E8"
+        android:pathData="M54,46l-8,9h5v8h6v-8h5z" />
+</vector>
